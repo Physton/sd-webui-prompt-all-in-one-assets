@@ -12,4 +12,4 @@
 
     ![](/assets/images/demo.custom_theme.gif)
 
-4. If you want to develop style themes for this extension, please refer to: [https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions](https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions)
+4. If you want to develop style themes for this extension, please refer to: [https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions#english](https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions#english)

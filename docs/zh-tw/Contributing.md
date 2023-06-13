@@ -40,4 +40,4 @@
 
 如果你需要自定義此擴展的樣式主題，請參考：
 
-> [https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions](https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions)
+> [https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions#简体中文](https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions#简体中文)

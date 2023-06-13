@@ -40,4 +40,4 @@ If you want to contribute to sd-webui-prompt-all-in-one, welcome to submit issue
 
 If you need to customize the style theme of this extension, please refer to:
 
-> [https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions](https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions)
+> [https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions#english](https://github.com/Physton/sd-webui-prompt-all-in-one/tree/main/styles/extensions#english)
