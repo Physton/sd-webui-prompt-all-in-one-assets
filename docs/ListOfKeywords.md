@@ -7,7 +7,6 @@
 ![](/assets/images/ListOfKeywords/btns.png)
 
 1. Hover over each keyword to make individual adjustments.
-
 2. To display the button to the right of the keyword, go to [Theme Style](/ThemeStyle.md#theme-style) and enable this feature.
 
 ## Drag and Drop Sorting
@@ -21,9 +20,7 @@ Left-click and drag the keyword to the desired location.
 ![](/assets/images/ListOfKeywords/weight.png)
 
 1. Enter a number in the weight input box or use the plus and minus buttons to adjust the weight.
-
 2. The weight can support up to six decimal places and is incremented and decremented by 0.1 by default.
-
 3. Click the `Bracket` button to add or remove brackets from the keyword.
 
 ## Insert Line Break
@@ -49,7 +46,6 @@ Click the `Copy` button to copy the current keyword to the clipboard.
 ![](/assets/images/ListOfKeywords/favorite.png)
 
 1. Click the `Favorite` button to add the current keyword to your favorites.
-
 2. If the keyword is already in your favorites, click the `Favorite` button to remove it.
 
 ## Disable Keyword
@@ -57,10 +53,9 @@ Click the `Copy` button to copy the current keyword to the clipboard.
 ![](/assets/images/ListOfKeywords/disable.png)
 
 1. Click the `Disable` button to disable the current keyword.
-
 2. If the keyword is already disabled, click the `Disable` button to enable it.
-
 3. Disabled keywords will not be added to the WebUI input box and can be re-enabled when needed.
+4. You can enable/disable keywords by double-clicking on them.
 
 ## Translate to Local Language
 
@@ -75,9 +70,7 @@ Click the `Translate to Local Language` button to translate the current keyword 
 ![](/assets/images/demo.keyword_detection.gif)
 
 1. Lora, LyCORIS, and Textual Inversion keywords are highlighted.
-
 2. If Lora or LyCORIS is not in your model list, it will blink to remind you.
-
 3. The translation of Lora, LyCORIS, and Textual Inversion keywords does not come from online translation, but from the original names in the local nfo file of the `Civitai Assistant`.
 
 ## Highlight Keywords in WebUI Input Box
