@@ -4,7 +4,7 @@
 
 ### 方式一（使用git克隆）：
 
-> 此方法需要您的電腦上安裝了 git，如果沒有安裝，可參考 [git 官方文檔](https://git-scm.com/book/zh/v2/起步-安裝-Git) 進行安裝。
+> 此方法需要您的電腦上安裝了 git，如果沒有安裝，可參考 [git 官方文檔](https://git-scm.com/book/zh-tw/v2/開始-Git-安裝教學) 進行安裝。
 
 1. 開啟終端機，進入到您的 `stable-diffusion-webui` 目錄下。
    ![](../assets/images/Installation/cd.png)
