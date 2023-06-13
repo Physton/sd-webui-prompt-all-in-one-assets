@@ -10,4 +10,4 @@ sd-webui-prompt-all-in-one 是一个基于 [stable-diffusion-webui](https://gith
 
 [GitHub](https://github.com/Physton/sd-webui-prompt-all-in-one)
 [🇨🇳Gitee](https://gitee.com/physton/sd-webui-prompt-all-in-one)
-[Get Started](Installation.md#installation)
+[Document / 文档](Installation.md#installation)
