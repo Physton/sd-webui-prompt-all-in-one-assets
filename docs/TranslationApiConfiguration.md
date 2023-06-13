@@ -72,10 +72,10 @@
 
     ![](/assets/images/TranslationApiConfiguration/select_csv.png)
 
-4. Click the "Test" button. Check whether the translation result is correct. In the test result, the English word is in front, and the translation result in your language is at the back. If the translation result at the back is not correct, please check whether your CSV file is correct, otherwise do not enable this function.
+5. Click the "Test" button. Check whether the translation result is correct. In the test result, the English word is in front, and the translation result in your language is at the back. If the translation result at the back is not correct, please check whether your CSV file is correct, otherwise do not enable this function.
 
     ![](/assets/images/TranslationApiConfiguration/csv_test.png)
 
-5. If you only want to use CSV for translation during automatic translation and not use the network translation API, then select the following option. After selecting, only when you manually click the translation button will the network translation API be used.
+6. If you only want to use CSV for translation during automatic translation and not use the network translation API, then select the following option. After selecting, only when you manually click the translation button will the network translation API be used.
 
     ![](/assets/images/TranslationApiConfiguration/csv_only.png)

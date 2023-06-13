@@ -72,10 +72,10 @@
 
     ![](../assets/images/TranslationApiConfiguration/select_csv.png)
 
-4. 点击 `测试` 按钮。检查翻译结果是否正确。测试结果中，每一行的前面为英文单词，后面为你的语言翻译结果。如果后面的翻译结果不正确，请检查你的 CSV 文件是否正确，否则不要启动此功能。
+5. 点击 `测试` 按钮。检查翻译结果是否正确。测试结果中，每一行的前面为英文单词，后面为你的语言翻译结果。如果后面的翻译结果不正确，请检查你的 CSV 文件是否正确，否则不要启动此功能。
 
     ![](../assets/images/TranslationApiConfiguration/csv_test.png)
 
-5. 如果你只想在自动翻译时，只使用CSV进行翻译，不使用网络翻译接口，那么请勾选以下选项。勾选后，只有你手动点击翻译按钮，才会使用网络翻译接口。
+6. 如果你只想在自动翻译时，只使用CSV进行翻译，不使用网络翻译接口，那么请勾选以下选项。勾选后，只有你手动点击翻译按钮，才会使用网络翻译接口。
 
     ![](../assets/images/TranslationApiConfiguration/csv_only.png)
