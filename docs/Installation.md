@@ -7,6 +7,7 @@
 > This method requires Git to be installed on your computer. If it is not installed, please refer to the official [Git documentation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for installation instructions.
 
 1. Open the terminal and navigate to your `stable-diffusion-webui` directory.
+
     ![](/assets/images/Installation/cd.png)
 
 2. Use Git to clone `sd-webui-prompt-all-in-one` to the `extensions` directory of `stable-diffusion-webui`.

@@ -7,6 +7,7 @@
 > Для этого метода требуется установленный на вашем компьютере Git. Если его нет, вы можете ознакомиться с [официальной документацией Git](https://git-scm.com/book/ru/v2/Введение-Установка-Git) и выполнить установку.
 
 1. Откройте терминал и перейдите в каталог `stable-diffusion-webui`.
+
    ![](../assets/images/Installation/cd.png)
 
 2. Склонируйте `sd-webui-prompt-all-in-one` из git в каталог `stable-diffusion-webui\extensions`.

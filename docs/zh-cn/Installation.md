@@ -7,6 +7,7 @@
 > 此方法需要你的电脑上安装了 git，如果没有安装，可参考 [git 官方文档](https://git-scm.com/book/zh/v2/起步-安装-Git) 进行安装。
 
 1. 打开终端，进入到你的 `stable-diffusion-webui` 目录下。
+
    ![](../assets/images/Installation/cd.png)
 
 2. 使用 git 克隆 `sd-webui-prompt-all-in-one` 到 `stable-diffusion-webui\extensions` 目录下。
