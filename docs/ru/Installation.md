@@ -15,11 +15,6 @@
     git clone "https://github.com/Physton/sd-webui-prompt-all-in-one.git" extensions/sd-webui-prompt-all-in-one
     ```
 
-   > Если у вас нет доступа к сети Github через терминал, вы можете использовать следующий URL-адрес для доступа через китайское зеркало:
-   > ```shell
-    > git clone "https://gitee.com/physton/sd-webui-prompt-all-in-one.git" extensions/sd-webui-prompt-all-in-one
-    > ```
-
    ![](../assets/images/Installation/clone.png)
 
 3. Перезапустите Stable Diffusion WebUI.
@@ -33,9 +28,6 @@
    ![](../assets/images/Installation/from_url.png)
 
 3. Введите `https://github.com/Physton/sd-webui-prompt-all-in-one.git`.
-
-   > Если у вас нет доступа к сети Github через терминал, вы можете использовать следующий URL-адрес для доступа через китайское зеркало:
-   > `https://gitee.com/physton/sd-webui-prompt-all-in-one.git`
 
 4. Нажмите `Установить` и дождитесь окончания установки. Этот процесс может занять несколько минут или дольше. После установки появится сообщение об успешном завершении.
 
