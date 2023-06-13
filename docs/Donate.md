@@ -37,13 +37,14 @@ Thank you very much for your love and support. I have received your kindness.
 | 2023-06-10          | P**             | 三克油                            | CNY ￥10       |
 | 2023-06-10          | 黄**             | 谢谢分享                           | CNY ￥10       |
 | 2023-06-11          |                 |                                | CNY ￥10       |
+| 2023-06-13          | 丙**             |                                | CNY ￥10       |
 
 ## Buy me a coffee *请我喝杯咖啡*
 
-|        |                                                                                 |
-|--------|---------------------------------------------------------------------------------|
+|        |                                                                                  |
+|--------|----------------------------------------------------------------------------------|
 | ko-fi  | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/physton) |
-| Paypal | [https://paypal.me/physton](https://paypal.me/physton)                          |
-| 爱发电    | [https://afdian.net/a/physton](https://afdian.net/a/physton)                    |
-| 支付宝    | `physton@163.com`                                                               |
-| 微信赞赏   | ![](/assets/images/donate-wechat.jpg)                 |
+| Paypal | [https://paypal.me/physton](https://paypal.me/physton)                           |
+| 爱发电    | [https://afdian.net/a/physton](https://afdian.net/a/physton)                     |
+| 支付宝    | `physton@163.com`                                                                |
+| 微信赞赏   | ![](/assets/images/donate-wechat.jpg)                                            |
