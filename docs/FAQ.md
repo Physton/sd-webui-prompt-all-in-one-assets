@@ -3,6 +3,8 @@
 ### Q: What is the difference between translation interfaces that do not require API keys and those that require API keys?
 
 > The translation interface that does not require an API key is obtained through crawling and does not require the user to apply for an API key. However, there may be translation failures, instability, slow speed, and lack of support for concurrency. The translation interface that requires an API key calls the API interface of a third-party translation service and requires the user to apply for an API key. However, the translation success rate is relatively high, some interfaces support high concurrency, and the translation speed is fast.
+> 
+> Please refer to the details in [Translation API Description](/TranslationApiConfiguration.md#translation-api-description).
 
 ### Q: Unable to use translation service, clicking "Test!" results in "No module named 'xxx'" error message?
 
