@@ -20,6 +20,8 @@
 >    ./python -m pip install aliyun-python-sdk-alimt
 >    ```
 > 3. After the installation is complete, restart webui.
+> 
+> Please refer to the details in [Installation Packages](/InstallationPackages.md).
 
 ### Q: Display error message: "Connection to backend API service failed. Please manually refresh the webpage. If it still doesn't work, please restart the WebUI."
 
@@ -31,6 +33,8 @@
 
 > You need to make sure that your WebUI version is [3715ece](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/3715ece) or higher. If your WebUI version is lower than this, you need to update WebUI.
 > ![](/assets/images/minimum_version_webui.png)
+> 
+> Please refer to the details in [Notes](/Installation.md#notes).
 
 ### Q: Don't need translation services, just want to use it in an offline environment?
 
@@ -50,6 +54,8 @@
 > You can visit [Physton/sd-webui-prompt-all-in-one-assets/tags](https://github.com/Physton/sd-webui-prompt-all-in-one-assets/tree/main/tags) where I have provided a Simplified Chinese CSV file.
 >
 > After selecting a different CSV file, please click the test button below to check if the translation is correct.
+> 
+> Please refer to the details in [TagComplete Translation enhancement](/TranslationApiConfiguration.md#tagcomplete-translation-enhancement).
 
 ### Q: Why are there two identical buttons under the generate button?
 

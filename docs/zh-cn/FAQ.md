@@ -20,6 +20,8 @@
      > ./python -m pip install aliyun-python-sdk-alimt
      >    ```
 > 3. 等待安装完成后，重启webui。
+>
+> 详情请见：[安装套件](/zh-cn/InstallationPackages.md)
 
 ### Q: 显示错误消息："连接到后台接口服务失败，请手动再刷新一次网页。如果还是不行，请重启WebUI"。
 
@@ -31,6 +33,8 @@
 
 > 你需要确保你的WebUI版本是 [3715ece（2023年第7周）](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/3715ece) 及更高。如果你的WebUI版本低于此版本，你需要更新WebUI。
 > ![](../assets/images/minimum_version_webui.png)
+> 
+> 详情请见：[注意事项](/zh-cn/Installation.md#注意事项)
 
 ### Q: 不需要翻译服务，只想在离线环境中使用？
 
@@ -50,6 +54,8 @@
 > 你可以前往[Physton/sd-webui-prompt-all-in-one-assets/tags](https://github.com/Physton/sd-webui-prompt-all-in-one-assets/tree/main/tags)，这里我提供了一份简体中文的CSV文件。
 >
 > 在选择了不同的CSV文件后，请点击下方的测试按钮，检查它是否翻译正确。
+> 
+> 详情请见：[TagComplate 翻译增强](/zh-cn/TranslationApiConfiguration.md#tagcomplate-翻译增强)
 
 ### Q: 为什么生成按钮下面有两个描述一样的按钮？
 
