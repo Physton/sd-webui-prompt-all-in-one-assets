@@ -38,6 +38,8 @@ Thank you very much for your love and support. I have received your kindness.
 | 2023-06-10          | 黄**             | 谢谢分享                           | CNY ￥10       |
 | 2023-06-11          |                 |                                | CNY ￥10       |
 | 2023-06-13          | 丙**             |                                | CNY ￥10       |
+| 2023-06-14 | 蛮** | 非常感谢大佬的付出                      | CNY ￥20       |
+| 2023-06-15 | E** | 这年头做中国开源软件的人不多了 | CNY ￥50        |
 
 ## Buy me a coffee *请我喝杯咖啡*
 
