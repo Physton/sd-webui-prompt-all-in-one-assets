@@ -1,5 +1,12 @@
 # Installation
 
+## Installation Requirements
+
+- Stable Diffusion WebUI version: [3715ece (Week 7, 2023)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/3715ece) or higher
+- Python version: `≈ 3.10.11` (Using `3.9` or `3.11` may cause issues with installing Python packages)
+- Operating System: `Windows`, `Linux`, `MacOS`, etc.
+- Browser: Do not enable translation plugins like Deepl.
+
 ## Installation Methods
 
 ### Method 1 (Using Git Clone):

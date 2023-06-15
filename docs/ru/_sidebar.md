@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [Установка](/ru/Installation.md#Установка)
+    - [Требования к установке](/ru/Installation.md#Требования-к-установке)
     - [Метод установки](/ru/Installation.md#Метод-установки)
     - [⭐Примечания](/ru/Installation.md#Примечания)
 - [Установка пакета Python (если пакет не установлен автоматически)](/ru/InstallationPackages.md#Установка-пакетов)

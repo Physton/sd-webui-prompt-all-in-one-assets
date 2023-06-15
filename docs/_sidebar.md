@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [Installation](Installation.md#installation)
+    - [Installation Requirements](Installation.md#installation-requirements)
     - [Installation Methods](Installation.md#installation-methods)
     - [⭐Notes](Installation.md#notes)
 - [Installation Packages (When the Python package is not installed automatically)](InstallationPackages.md#installation-packages)

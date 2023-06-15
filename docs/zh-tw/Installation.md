@@ -1,5 +1,12 @@
 # 安裝
 
+## 安裝需求
+
+- Stable Diffusion WebUI 版本：[3715ece（2023年第7週）](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/3715ece) 及以上版本
+- Python 版本：`≈ 3.10.11`（`3.9`或者`3.11`可能會導致Python套件無法安裝）
+- 操作系統：`Windows`、`Linux`、`MacOS` 等等
+- 瀏覽器：請勿啟用Deepl等翻譯插件
+
 ## 安裝方式
 
 ### 方式一（使用git克隆）：

@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [安装](/zh-cn/Installation.md#安装)
+    - [安装需求](/zh-cn/Installation.md#安装需求)
     - [安装方式](/zh-cn/Installation.md#安装方式)
     - [⭐注意事项️](/zh-cn/Installation.md#注意事项)
 - [安装Python包（当 Python 包未能自动安装时）](/zh-cn/InstallationPackages.md#安装套件)

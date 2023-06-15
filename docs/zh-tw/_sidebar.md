@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [安裝](/zh-tw/Installation.md#安裝)
+    - [安裝需求](/zh-tw/Installation.md#安裝需求)
     - [安裝方式](/zh-tw/Installation.md#安裝方式)
     - [⭐注意事項](/zh-tw/Installation.md#注意事項)
 - [安裝套件 (當 Python 包未能自動安裝時)](/zh-tw/InstallationPackages.md#安裝套件)
