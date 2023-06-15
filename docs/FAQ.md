@@ -38,7 +38,7 @@
 
 ### Q: Don't need translation services, just want to use it in an offline environment?
 
-> 1. During initialization, the extension will install some translation interface SDK packages, such as `translators`、`openai`、`boto3`、`aliyun-python-sdk-core`、`aliyun-python-sdk-alimt`, etc. If you don't need translation services and don't want to install them, please manually open `install.py` `scripts\packages.py`, delete the code according to the comments in the code. This will not affect the use of the extension. Then uncheck the automatic translation button in the extension settings.
+> 1. During initialization, the extension will install some translation interface SDK packages, such as `translators`、`openai`、`boto3`、`aliyun-python-sdk-core`、`aliyun-python-sdk-alimt`, etc. If you don't need translation services and don't want to install them, please manually open `install.py` `scripts\physton_prompt\packages.py`, delete the code according to the comments in the code. This will not affect the use of the extension. Then uncheck the automatic translation button in the extension settings.
 > 2. You can also directly change the local language to English en_US in the extension, which will hide all translation-related buttons. Although the extension will still install these translation interface SDK packages during initialization, they are imported on-demand in the code without using translation services, so they will not be loaded.
 
 ### Q: Why isn't the Prompt automatically translated into the local language when pasted in the WebUI, or only partially translated?

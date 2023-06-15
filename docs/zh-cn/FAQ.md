@@ -38,7 +38,7 @@
 
 ### Q: 不需要翻译服务，只想在离线环境中使用？
 
-> 1. 扩展在初始化的时候会安装一些翻译接口的SDK包，如`translators`、`openai`、`boto3`、`aliyun-python-sdk-core`、`aliyun-python-sdk-alimt`等等，如果你不需要翻译服务，也不想安装它们，请手动打开`install.py`、`scripts\packages.py`，根据代码中的注释，删除代码，这并不会影响扩展的使用。然后取消勾选扩展设置中的自动翻译按钮。
+> 1. 扩展在初始化的时候会安装一些翻译接口的SDK包，如`translators`、`openai`、`boto3`、`aliyun-python-sdk-core`、`aliyun-python-sdk-alimt`等等，如果你不需要翻译服务，也不想安装它们，请手动打开`install.py`、`scripts\physton_prompt\packages.py`，根据代码中的注释，删除代码，这并不会影响扩展的使用。然后取消勾选扩展设置中的自动翻译按钮。
 > 2. 你也可以直接在扩展中将本地语言改为英文`en_US`，这样所有翻译相关的按钮都将被隐藏。虽然扩展在初始化时还会安装这些翻译接口的SDK包，但它们在代码中都是按需导入的，没有使用翻译服务，它们也不会被加载。
 
 ### Q: 为什么在WebUI里粘贴了Prompt，但是没有自动翻译到本地语言，或者只翻译了一部分？
