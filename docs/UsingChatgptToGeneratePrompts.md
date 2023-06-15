@@ -32,6 +32,8 @@
 2. Each model has a different billing method.
 3. Regular accounts cannot use the "gpt-4" model.
 
+After filling in, click the "Save" button. You don't need to fill it in again the next time you open the window.
+
 ### Free API KEY
 > [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) This Github repository provides a free API interface.
 
@@ -41,8 +43,6 @@
    - `https://api.chatanywhere.com.cn`
    - `https://api.chatanywhere.cn`
 4. This project has no relation to this extension. Any problems or losses caused by using this project have nothing to do with the author of this extension. Please use it at your own discretion!!!
-
-After filling in, click the "Save" button. You don't need to fill it in again the next time you open the window.
 
 ### Free Accounts
 

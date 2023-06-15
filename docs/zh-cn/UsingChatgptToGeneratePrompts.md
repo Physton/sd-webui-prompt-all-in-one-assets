@@ -33,6 +33,8 @@
 2. 每个模型的计费方式不同。
 3. 普通账号无法使用 `gpt-4` 模型。
 
+填写完成后，点击 `保存` 按钮，下次打开窗口后无需再次填写。
+
 ### 免费的API KEY
 
 > [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) 此 Github 仓库提供了免费的API接口。
@@ -43,8 +45,6 @@
    - `https://api.chatanywhere.com.cn`
    - `https://api.chatanywhere.cn`
 4. 该项目与本扩展无关，任何使用该项目产生的问题、损失与本作者无关。请自行斟酌！！！
-
-填写完成后，点击 `保存` 按钮，下次打开窗口后无需再次填写。
 
 ### 免费的账号
 
