@@ -32,6 +32,7 @@
             - [API KEY](/zh-tw/UsingChatgptToGeneratePrompts.md#api-key)
             - [Model](/zh-tw/UsingChatgptToGeneratePrompts.md#model)
             - [免費的API KEY](/zh-tw/UsingChatgptToGeneratePrompts.md#免費的api-key)
+            - [免費帳號](/zh-tw/UsingChatgptToGeneratePrompts.md#免費帳號)
         - [生成Prompts](/zh-tw/UsingChatgptToGeneratePrompts.md#生成prompts)
     - [關鍵詞輸入框](/zh-tw/KeywordInputBox.md#關鍵詞輸入框)
     - [其它功能介紹](/zh-tw/OtherFeatures.md#其它功能介紹)

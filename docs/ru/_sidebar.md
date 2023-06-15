@@ -32,6 +32,7 @@
             - [API KEY](/ru/UsingChatgptToGeneratePrompts.md#api-key)
             - [Model](/ru/UsingChatgptToGeneratePrompts.md#Model)
             - [Бесплатный API KEY](/ru/UsingChatgptToGeneratePrompts.md#Бесплатный-api-key)
+            - [Бесплатные аккаунты](/ru/UsingChatgptToGeneratePrompts.md#Бесплатные-аккаунты)
         - [Генерация подсказок](/ru/UsingChatgptToGeneratePrompts.md#Генерация-подсказок)
     - [Коробка ввода ключевых слов](/ru/KeywordInputBox.md#Коробка-ввода-ключевых-слов)
     - [Другие функции](/ru/OtherFeatures.md#Другие-функции)

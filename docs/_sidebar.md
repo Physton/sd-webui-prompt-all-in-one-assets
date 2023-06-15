@@ -32,6 +32,7 @@
             - [API KEY](UsingChatgptToGeneratePrompts.md#api-key)
             - [Model](UsingChatgptToGeneratePrompts.md#model)
             - [Free API KEY](UsingChatgptToGeneratePrompts.md#free-api-key)
+            - [Free Accounts](UsingChatgptToGeneratePrompts.md#free-accounts)
         - [Generate Prompts](UsingChatgptToGeneratePrompts.md#generate-prompts)
     - [Keyword Input Box](KeywordInputBox.md#keyword-input-box)
     - [Other Features](OtherFeatures.md#other-features)

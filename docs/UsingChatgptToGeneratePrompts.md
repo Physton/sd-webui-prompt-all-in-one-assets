@@ -21,6 +21,10 @@
 
 1. Get your API KEY from [OpenAI](https://platform.openai.com/docs/introduction).
 2. You can go to video platforms, such as YouTube, to search for video tutorials on how to get an API KEY.
+3. Some potentially useful proxy servers:
+   - `https://api.openai-proxy.com/v1`
+   - `https://chatai.1rmb.tk/v1`
+   - Welcome to add more...
 
 ### Model
 
@@ -34,9 +38,23 @@
 1. The API KEY provided by this project has a maximum of 120 requests per hour.
 2. The project may become invalid at any time.
 3. The API KEY provided by this project cannot use the official API Base. Please fill in the URL address provided by this project in the API Base field.
+   - `https://api.chatanywhere.com.cn`
+   - `https://api.chatanywhere.cn`
 4. This project has no relation to this extension. Any problems or losses caused by using this project have nothing to do with the author of this extension. Please use it at your own discretion!!!
 
 After filling in, click the "Save" button. You don't need to fill it in again the next time you open the window.
+
+### Free Accounts
+
+- `https://free.openai.bond/`
+- `https://djsfenxiang.com/`
+- `https://fxmus.fxopenai.xyz/`
+- Welcome to add more...
+
+1. Visit these websites and use the account credentials they provide to log in to the [OpenAI](https://platform.openai.com/docs/introduction) official website.
+2. After logging in, create a new KEY and use it.
+3. These accounts may become invalid at any time.
+4. These websites are third-party websites and are not affiliated with this extension. The author is not responsible for any issues or losses arising from the use of these websites. Please use them at your own discretion!
 
 ## Generate Prompts
 

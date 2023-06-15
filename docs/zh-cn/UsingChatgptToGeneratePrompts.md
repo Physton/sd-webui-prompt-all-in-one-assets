@@ -17,6 +17,10 @@
 1. 官方默认的接口地址是 `https://api.openai.com/v1`
 2. 如果你没有访问官网的网络环境，可自行搜索或搭建代理服务器。将代理服务器的地址填入 `API Base`。请注意任何第三方代理服务器都有可能导致你的API
    KEY泄露，或者导致你的隐私泄露。请谨慎使用。
+3. 可能有用的一些代理服务器：
+   - `https://api.openai-proxy.com/v1`
+   - `https://chatai.1rmb.tk/v1`
+   - 欢迎补充...
 
 ### API KEY
 
@@ -36,9 +40,23 @@
 1. 该项目提供的 API KEY 没小时限制最多请求120次。
 2. 该项目可能随时失效。
 3. 该项目提供的 API KEY 无法使用官方的 API Base，请在 API Base 处填写该项目提供的 URL 地址。
+   - `https://api.chatanywhere.com.cn`
+   - `https://api.chatanywhere.cn`
 4. 该项目与本扩展无关，任何使用该项目产生的问题、损失与本作者无关。请自行斟酌！！！
 
 填写完成后，点击 `保存` 按钮，下次打开窗口后无需再次填写。
+
+### 免费的账号
+
+- `https://free.openai.bond/`
+- `https://djsfenxiang.com/`
+- `https://fxmus.fxopenai.xyz/`
+- 欢迎补充...
+
+1. 进入这些网站，使用它们提供的账号密码到 [OpenAI](https://platform.openai.com/docs/introduction) 官网登录。
+2. 登录后创建一个新的 KEY 并使用。
+3. 这些账号可能随时失效。
+4. 这些网站均为第三方网站，与本扩展无关，任何使用这些网站产生的问题、损失与本作者无关。请自行斟酌！！！
 
 ## 生成Prompts
 
