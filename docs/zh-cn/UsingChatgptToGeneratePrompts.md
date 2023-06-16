@@ -39,7 +39,7 @@
 
 > [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) 此 Github 仓库提供了免费的API接口。
 
-1. 该项目提供的 API KEY 没小时限制最多请求120次。
+1. 该项目提供的 API KEY 每小时限制最多请求120次。
 2. 该项目可能随时失效。
 3. 该项目提供的 API KEY 无法使用官方的 API Base，请在 API Base 处填写该项目提供的 URL 地址。
    - `https://api.chatanywhere.com.cn`
