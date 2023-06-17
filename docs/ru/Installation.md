@@ -90,11 +90,11 @@
 4. Убедитесь, что ваша версия WebUI не ниже [3715ece (7-я неделя 2023 года)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/3715ece). Если ваша версия WebUI ниже этой версии, вам нужно обновить WebUI.
 ![](../assets/images/minimum_version_webui.png)
 
-5. Если вы запустили WebUI с параметром `--data-dir`, вам нужно добавить параметр `--gradio-allowed-path="путь к расширению"`.
+5. Если вы запустили WebUI с параметром `--data-dir`, вам нужно добавить параметр `--gradio-allowed-path="Расширенный путь к папке"`.
    
    Если вы не добавите параметр `--gradio-allowed-path`, большинство сторонних расширений не смогут работать, а не только это расширение.
 
-   `--gradio-allowed-path="путь к папке Data\extensions\sd-webui-prompt-all-in-one"`
+   `--gradio-allowed-path="Расширенный путь к папке"`
 
    или
 

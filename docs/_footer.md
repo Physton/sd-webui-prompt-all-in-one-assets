@@ -8,8 +8,4 @@ You could also buy me a coffee: [donate](/Donate.md#buy-me-a-coffee-请我喝杯
 > 如果你觉得这个扩展有帮助，请在Github上给我一颗星！
 > 你也可以请我喝杯咖啡: [donate](/Donate.md#buy-me-a-coffee-请我喝杯咖啡)
 >
-> Telegram: [https://t.me/promptAIO](https://t.me/promptAIO)
->
 > QQ群：820700336
-> 
-> physton@163.com

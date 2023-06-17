@@ -91,11 +91,11 @@
 4. You need to make sure that your WebUI version is [3715ece](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/3715ece) or higher. If your WebUI version is lower than this, you need to update WebUI.
     ![](/assets/images/minimum_version_webui.png)
 
-5. After starting with the `--data-dir` parameter, the WebUI needs to add the parameter `--gradio-allowed-path="path to this extension"`.
+5. After starting with the `--data-dir` parameter, the WebUI needs to add the parameter `--gradio-allowed-path="Expanded folder path"`.
 
    If the `--gradio-allowed-path` parameter is not added, most third-party extensions cannot be used, not just this one.
 
-   `--gradio-allowed-path="path to your Data folder\extensions\sd-webui-prompt-all-in-one"`
+   `--gradio-allowed-path="Expanded folder path"`
 
    or
 

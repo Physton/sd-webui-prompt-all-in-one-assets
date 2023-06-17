@@ -100,11 +100,11 @@
 及更高。如果你的WebUI版本低于此版本，你需要更新WebUI。
 ![](../assets/images/minimum_version_webui.png)
 
-5. 在启动了 `--data-dir` 参数后，WebUI需要增加参数 `--gradio-allowed-path="本扩展路径"`。
+5. 在启动了 `--data-dir` 参数后，WebUI需要增加参数 `--gradio-allowed-path="扩展文件夹路径"`。
 
    如果不添加 `--gradio-allowed-path` 参数，大部分第三方扩展都不能够使用，不只是本扩展。
 
-   `--gradio-allowed-path="你的Data文件夹路径\extensions\sd-webui-prompt-all-in-one"`
+   `--gradio-allowed-path="扩展文件夹路径"`
 
    或者
 
