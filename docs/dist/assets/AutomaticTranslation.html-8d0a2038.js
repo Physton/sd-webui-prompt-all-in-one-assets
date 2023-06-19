@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4550148d","path":"/zh-TW/AutomaticTranslation.html","title":"自動翻譯","lang":"zh-TW","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"zh-TW/AutomaticTranslation.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-069eba9e","path":"/LanguageSelection.html","title":"Language Selection","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"LanguageSelection.md"}');export{e as data};

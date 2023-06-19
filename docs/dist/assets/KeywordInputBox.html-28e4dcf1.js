@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-22756cb5","path":"/zh-TW/KeywordInputBox.html","title":"關鍵詞輸入框","lang":"zh-TW","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"zh-TW/KeywordInputBox.md"}');export{t as data};

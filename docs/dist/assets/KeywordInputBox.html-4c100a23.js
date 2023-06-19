@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c048bdf0","path":"/KeywordInputBox.html","title":"Keyword Input Box","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"KeywordInputBox.md"}');export{t as data};

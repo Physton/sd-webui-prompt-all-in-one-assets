@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c62ac2de","path":"/FormatOfPrompts.html","title":"Format of prompts","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"FormatOfPrompts.md"}');export{t as data};

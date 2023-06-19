@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2c99dea9","path":"/BatchTranslation.html","title":"Batch Translation","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"BatchTranslation.md"}');export{t as data};

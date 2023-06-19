@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-25bdff37","path":"/zh-TW/Favorite.html","title":"收藏夾","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"打開收藏窗口","slug":"打開收藏窗口","link":"#打開收藏窗口","children":[]},{"level":2,"title":"功能說明","slug":"功能說明","link":"#功能說明","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"zh-TW/Favorite.md"}');export{e as data};

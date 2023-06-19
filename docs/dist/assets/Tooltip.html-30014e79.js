@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1664d9ee","path":"/ru/Tooltip.html","title":"Подсказки функций кнопок","lang":"ru","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"ru/Tooltip.md"}');export{t as data};

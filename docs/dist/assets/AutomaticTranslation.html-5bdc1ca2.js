@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fd66c7cc","path":"/AutomaticTranslation.html","title":"Automatic Translation","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"AutomaticTranslation.md"}');export{t as data};

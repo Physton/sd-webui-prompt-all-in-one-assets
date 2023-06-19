@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-35a6a46b","path":"/zh-TW/ThemeStyle.html","title":"主題風格","lang":"zh-TW","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"zh-TW/ThemeStyle.md"}');export{e as data};

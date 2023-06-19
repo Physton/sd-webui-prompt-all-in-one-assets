@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4748973e","path":"/ru/ThemeStyle.html","title":"Темы оформления","lang":"ru","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"ru/ThemeStyle.md"}');export{e as data};

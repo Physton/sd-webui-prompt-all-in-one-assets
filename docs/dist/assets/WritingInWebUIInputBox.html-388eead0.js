@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2aa64618","path":"/WritingInWebUIInputBox.html","title":"Writing in WebUI input box","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"WritingInWebUIInputBox.md"}');export{t as data};
