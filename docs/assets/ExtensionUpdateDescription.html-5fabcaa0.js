@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8013bf42","path":"/zh-TW/ExtensionUpdateDescription.html","title":"擴展更新說明","lang":"zh-TW","frontmatter":{},"headers":[],"git":{"updatedTime":1687190840000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"zh-TW/ExtensionUpdateDescription.md"}');export{t as data};

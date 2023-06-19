@@ -3,6 +3,7 @@ import {defaultTheme} from '@vuepress/theme-default'
 import {searchPlugin} from '@vuepress/plugin-search'
 import {copyCodePlugin} from "vuepress-plugin-copy-code2"
 import {mdEnhancePlugin} from "vuepress-plugin-md-enhance"
+import fullTextSearchPlugin from "vuepress-plugin-full-text-search2"
 
 export default {
     base: '/sd-webui-prompt-all-in-one-assets/',
@@ -15,6 +16,7 @@ export default {
             // 启用导入支持
             include: true,
         }),
+        fullTextSearchPlugin()
     ],
     locales: {
         '/': {

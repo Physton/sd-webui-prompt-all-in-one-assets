@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-4a4945c2","path":"/ru/KeywordInputBox.html","title":"Коробка ввода ключевых слов","lang":"ru","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"ru/KeywordInputBox.md"}');export{t as data};

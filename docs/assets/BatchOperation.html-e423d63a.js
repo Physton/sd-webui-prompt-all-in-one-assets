@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-528341f3","path":"/BatchOperation.html","title":"Batch Operation","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"BatchOperation.md"}');export{t as data};

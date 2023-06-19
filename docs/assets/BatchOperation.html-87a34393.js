@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4a4a66b4","path":"/zh-TW/BatchOperation.html","title":"批量操作關鍵詞","lang":"zh-TW","frontmatter":{},"headers":[],"git":{"updatedTime":1687190840000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"zh-TW/BatchOperation.md"}');export{t as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-603e5da2","path":"/ru/BatchTranslation.html","title":"Массовый перевод","lang":"ru","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"ru/BatchTranslation.md"}');export{t as data};

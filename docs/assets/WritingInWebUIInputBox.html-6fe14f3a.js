@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-15f2bc1e","path":"/ru/WritingInWebUIInputBox.html","title":"Напишите в поле ввода на WebUI","lang":"ru","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"ru/WritingInWebUIInputBox.md"}');export{t as data};

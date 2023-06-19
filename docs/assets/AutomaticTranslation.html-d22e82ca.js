@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-43950075","path":"/zh-CN/AutomaticTranslation.html","title":"自动翻译","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"zh-CN/AutomaticTranslation.md"}');export{t as data};

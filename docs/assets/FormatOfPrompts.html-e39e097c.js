@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7785ad56","path":"/zh-CN/FormatOfPrompts.html","title":"提示词格式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1687190840000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"zh-CN/FormatOfPrompts.md"}');export{t as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-4758434b","path":"/ru/FormatOfPrompts.html","title":"Формат подсказок","lang":"ru","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"ru/FormatOfPrompts.md"}');export{t as data};

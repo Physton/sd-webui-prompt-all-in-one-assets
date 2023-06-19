@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4758434b","path":"/ru/FormatOfPrompts.html","title":"Формат подсказок","lang":"ru","frontmatter":{},"headers":[],"git":{"updatedTime":1687190840000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"ru/FormatOfPrompts.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-49f44f0b","path":"/zh-TW/LanguageSelection.html","title":"語言選擇","lang":"zh-TW","frontmatter":{},"headers":[],"git":{"updatedTime":1687190840000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"zh-TW/LanguageSelection.md"}');export{t as data};
