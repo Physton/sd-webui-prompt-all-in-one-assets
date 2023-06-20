@@ -15,6 +15,10 @@ export default {
         mdEnhancePlugin({
             // 启用导入支持
             include: true,
+            // 启用图片懒加载
+            imgLazyload: true,
+            // 启用幻灯片
+            presentation: true,
         }),
         fullTextSearchPlugin()
     ],
