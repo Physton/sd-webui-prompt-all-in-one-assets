@@ -79,28 +79,28 @@ export default {
                 <p class="github-count">
                     <a target="_blank" href="https://github.com/Physton/sd-webui-prompt-all-in-one/stargazers">
                         <img alt="GitHub stars"
-                             src="https://img.shields.io/github/stars/Physton/sd-webui-prompt-all-in-one?style=plastic"/>
+                             src="https://img.shields.io/github/stars/Physton/sd-webui-prompt-all-in-one?style=flat-square"/>
                     </a>
                     <a target="_blank" href="https://github.com/Physton/sd-webui-prompt-all-in-one/network/members">
                         <img alt="GitHub forks"
-                             src="https://img.shields.io/github/forks/Physton/sd-webui-prompt-all-in-one?style=plastic"/>
+                             src="https://img.shields.io/github/forks/Physton/sd-webui-prompt-all-in-one?style=flat-square"/>
                     </a>
                     <a target="_blank" href="https://github.com/Physton/sd-webui-prompt-all-in-one/issues">
                         <img alt="GitHub issues"
-                             src="https://img.shields.io/github/issues/Physton/sd-webui-prompt-all-in-one?style=plastic"/>
+                             src="https://img.shields.io/github/issues/Physton/sd-webui-prompt-all-in-one?style=flat-square"/>
                     </a>
                     <a target="_blank"
                        href="https://github.com/Physton/sd-webui-prompt-all-in-one/issues?q=is%3Aissue+is%3Aclosed">
                         <img alt="GitHub issues closed"
-                             src="https://img.shields.io/github/issues-closed/Physton/sd-webui-prompt-all-in-one?style=plastic"/>
+                             src="https://img.shields.io/github/issues-closed/Physton/sd-webui-prompt-all-in-one?style=flat-square"/>
                     </a>
                     <a target="_blank" href="https://github.com/Physton/sd-webui-prompt-all-in-one/blob/main/LICENSE">
                         <img alt="GitHub license"
-                             src="https://img.shields.io/github/license/Physton/sd-webui-prompt-all-in-one?style=plastic"/>
+                             src="https://img.shields.io/github/license/Physton/sd-webui-prompt-all-in-one?style=flat-square"/>
                     </a>
                     <a target="_blank" href="https://github.com/Physton/sd-webui-prompt-all-in-one/commits/main">
                         <img alt="GitHub commits"
-                             src="https://img.shields.io/github/last-commit/Physton/sd-webui-prompt-all-in-one?style=plastic"/>
+                             src="https://img.shields.io/github/last-commit/Physton/sd-webui-prompt-all-in-one?style=flat-square"/>
                     </a>
                 </p>
                 <div>Developed by <a target="_blank" href="https://github.com/Physton">Physton Github</a>, <a target="_blank" href="https://Physton.com">Phyton.com</a></div>
