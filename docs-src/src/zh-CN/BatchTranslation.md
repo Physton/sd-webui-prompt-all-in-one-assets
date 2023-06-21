@@ -1,5 +1,7 @@
 # 批量翻译
 
+> 在英文语言环境下，这个按钮将被隐藏。
+
 1. 点击 `一键翻译按钮`，可将下方所有关键词自动翻译。
 
    ![](../assets/images/BatchTranslation/translate.png)

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a3d78714","path":"/zh-TW/Theme.html","title":"切換淺色/深色主題","lang":"zh-TW","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"zh-TW/Theme.md"}');export{e as data};

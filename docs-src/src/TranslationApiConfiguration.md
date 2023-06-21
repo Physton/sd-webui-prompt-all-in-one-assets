@@ -1,5 +1,7 @@
 # Translation API Configuration
 
+> In the English language environment, this button will be hidden.
+
 ## Open the Translation API Configuration Window
 
 1. Hover your mouse over the "Settings" button icon.

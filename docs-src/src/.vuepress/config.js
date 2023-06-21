@@ -83,14 +83,21 @@ export default {
                 sidebar: [
                     '/Installation.md',
                     '/InstallationPackages.md',
+                    '/ExtensionUpdateDescription.md',
                     {
                         text: 'Toolbar', link: '', children: [
                             '/LanguageSelection.md',
-                            '/TranslationApiConfiguration.md',
-                            '/FormatOfPrompts.md',
-                            '/ThemeStyle.md',
-                            '/AutomaticTranslation.md',
-                            '/Tooltip.md',
+                            {
+                                text: 'Settings', link: '', children: [
+                                    '/TranslationApiConfiguration.md',
+                                    '/FormatOfPrompts.md',
+                                    '/ThemeStyle.md',
+                                    '/Theme.md',
+                                    '/About.md',
+                                    '/AutomaticTranslation.md',
+                                    '/Tooltip.md',
+                                ]
+                            },
                             '/History.md',
                             '/Favorite.md',
                             '/BatchTranslation.md',
@@ -108,7 +115,6 @@ export default {
                     {
                         text: 'Other', link: '', children: [
                             '/WritingInWebUIInputBox.md',
-                            '/ExtensionUpdateDescription.md',
                             '/Contributing.md',
                         ]
                     },
@@ -126,14 +132,21 @@ export default {
                 sidebar: [
                     '/ru/Installation.md',
                     '/ru/InstallationPackages.md',
+                    '/ru/ExtensionUpdateDescription.md',
                     {
                         text: 'Панель инструментов', link: '', children: [
                             '/ru/LanguageSelection.md',
-                            '/ru/TranslationApiConfiguration.md',
-                            '/ru/FormatOfPrompts.md',
-                            '/ru/ThemeStyle.md',
-                            '/ru/AutomaticTranslation.md',
-                            '/ru/Tooltip.md',
+                            {
+                                text: 'Настройки', link: '', children: [
+                                    '/ru/TranslationApiConfiguration.md',
+                                    '/ru/FormatOfPrompts.md',
+                                    '/ru/ThemeStyle.md',
+                                    '/ru/Theme.md',
+                                    '/ru/About.md',
+                                    '/ru/AutomaticTranslation.md',
+                                    '/ru/Tooltip.md',
+                                ]
+                            },
                             '/ru/History.md',
                             '/ru/Favorite.md',
                             '/ru/BatchTranslation.md',
@@ -151,7 +164,6 @@ export default {
                     {
                         text: 'Другое', link: '', children: [
                             '/ru/WritingInWebUIInputBox.md',
-                            '/ru/ExtensionUpdateDescription.md',
                             '/ru/Contributing.md',
                         ]
                     },
@@ -170,14 +182,21 @@ export default {
                 sidebar: [
                     '/zh-CN/Installation.md',
                     '/zh-CN/InstallationPackages.md',
+                    '/zh-CN/ExtensionUpdateDescription.md',
                     {
                         text: '工具栏', link: '', children: [
                             '/zh-CN/LanguageSelection.md',
-                            '/zh-CN/TranslationApiConfiguration.md',
-                            '/zh-CN/FormatOfPrompts.md',
-                            '/zh-CN/ThemeStyle.md',
-                            '/zh-CN/AutomaticTranslation.md',
-                            '/zh-CN/Tooltip.md',
+                            {
+                                text: '设置', link: '', children: [
+                                    '/zh-CN/TranslationApiConfiguration.md',
+                                    '/zh-CN/FormatOfPrompts.md',
+                                    '/zh-CN/ThemeStyle.md',
+                                    '/zh-CN/Theme.md',
+                                    '/zh-CN/About.md',
+                                    '/zh-CN/AutomaticTranslation.md',
+                                    '/zh-CN/Tooltip.md',
+                                ]
+                            },
                             '/zh-CN/History.md',
                             '/zh-CN/Favorite.md',
                             '/zh-CN/BatchTranslation.md',
@@ -195,7 +214,6 @@ export default {
                     {
                         text: '其他', link: '', children: [
                             '/zh-CN/WritingInWebUIInputBox.md',
-                            '/zh-CN/ExtensionUpdateDescription.md',
                             '/zh-CN/Contributing.md',
                         ]
                     },
@@ -214,14 +232,21 @@ export default {
                 sidebar: [
                     '/zh-TW/Installation.md',
                     '/zh-TW/InstallationPackages.md',
+                    '/zh-TW/ExtensionUpdateDescription.md',
                     {
                         text: '工具欄', link: '', children: [
                             '/zh-TW/LanguageSelection.md',
-                            '/zh-TW/TranslationApiConfiguration.md',
-                            '/zh-TW/FormatOfPrompts.md',
-                            '/zh-TW/ThemeStyle.md',
-                            '/zh-TW/AutomaticTranslation.md',
-                            '/zh-TW/Tooltip.md',
+                            {
+                                text: '設置', link: '', children: [
+                                    '/zh-TW/TranslationApiConfiguration.md',
+                                    '/zh-TW/FormatOfPrompts.md',
+                                    '/zh-TW/ThemeStyle.md',
+                                    '/zh-TW/Theme.md',
+                                    '/zh-TW/About.md',
+                                    '/zh-TW/AutomaticTranslation.md',
+                                    '/zh-TW/Tooltip.md',
+                                ]
+                            },
                             '/zh-TW/History.md',
                             '/zh-TW/Favorite.md',
                             '/zh-TW/BatchTranslation.md',
@@ -239,7 +264,6 @@ export default {
                     {
                         text: '其他', link: '', children: [
                             '/zh-TW/WritingInWebUIInputBox.md',
-                            '/zh-TW/ExtensionUpdateDescription.md',
                             '/zh-TW/Contributing.md',
                         ]
                     },

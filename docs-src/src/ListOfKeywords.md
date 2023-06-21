@@ -31,6 +31,8 @@ Click the `Wrap` button to insert a line break after the current keyword.
 
 ## Translate to English
 
+> In the English language environment, this button will be hidden.
+
 ![](./assets/images/ListOfKeywords/english.png)
 
 Click the `Translate to English` button to translate the current keyword into English.
@@ -58,6 +60,8 @@ Click the `Copy` button to copy the current keyword to the clipboard.
 4. You can enable/disable keywords by double-clicking on them.
 
 ## Translate to Local Language
+
+> In the English language environment, this button will be hidden.
 
 ![](./assets/images/ListOfKeywords/local_language.png)
 

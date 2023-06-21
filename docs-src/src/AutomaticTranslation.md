@@ -1,5 +1,7 @@
 # Automatic Translation
 
+> In the English language environment, this button will be hidden.
+
 1. Move the mouse over the "Automatic Translation Selection Box" and check it.
 
     ![](./assets/images/AutomaticTranslation/checkbox.png)

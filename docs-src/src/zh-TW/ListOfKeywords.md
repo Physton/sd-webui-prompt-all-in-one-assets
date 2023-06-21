@@ -31,6 +31,8 @@
 
 ## 翻譯到英文
 
+> 在英文語言環境下，這個按鈕將被隱藏。
+
 ![](../assets/images/ListOfKeywords/english.png)
 
 如果當前關鍵詞不是英文的，你可以點擊 `翻譯到英文` 按鈕，將當前關鍵詞翻譯成英文。
@@ -58,6 +60,8 @@
 4. 雙擊關鍵詞也可以實現禁用/啟用關鍵詞。
 
 ## 翻譯到本地語言
+
+> 在英文語言環境下，這個按鈕將被隱藏。
 
 ![](../assets/images/ListOfKeywords/local_language.png)
 

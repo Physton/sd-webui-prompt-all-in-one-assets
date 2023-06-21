@@ -1,5 +1,7 @@
 # 自动翻译
 
+> 在英文语言环境下，这个按钮将被隐藏。
+
 1. 鼠标移动到 `自动翻译选择框` 上，勾选它。
 
    ![](../assets/images/AutomaticTranslation/checkbox.png)

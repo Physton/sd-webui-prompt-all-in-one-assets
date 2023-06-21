@@ -1,5 +1,7 @@
 # 批量翻譯
 
+> 在英文語言環境下，這個按鈕將被隱藏。
+
 1. 點擊 `一鍵翻譯按鈕`，可將下方所有關鍵詞自動翻譯。
 
    ![](../assets/images/BatchTranslation/translate.png)

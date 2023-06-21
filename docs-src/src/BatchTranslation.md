@@ -1,5 +1,7 @@
 # Batch Translation
 
+> In the English language environment, this button will be hidden.
+
 1. Click the "Batch Translation" button to automatically translate all the keywords below.
 
     ![](./assets/images/BatchTranslation/translate.png)

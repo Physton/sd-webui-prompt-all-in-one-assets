@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0c76dc7a","path":"/ru/Theme.html","title":"Переключение светлой/темной темы","lang":"ru","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"ru/Theme.md"}');export{e as data};

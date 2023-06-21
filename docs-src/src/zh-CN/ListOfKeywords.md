@@ -31,6 +31,8 @@
 
 ## 翻译到英文
 
+> 在英文语言环境下，这个按钮将被隐藏。
+
 ![](../assets/images/ListOfKeywords/english.png)
 
 如果当前关键词不是英文的，你可以点击 `翻译到英文` 按钮，将当前关键词翻译成英文。
@@ -58,6 +60,8 @@
 4. 可以透過雙擊關鍵詞來進行禁用/啟用操作。
 
 ## 翻译到本地语言
+
+> 在英文语言环境下，这个按钮将被隐藏。
 
 ![](../assets/images/ListOfKeywords/local_language.png)
 
