@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-64ed2c89","path":"/Theme.html","title":"Switch Light/Dark Theme","lang":"en","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"Theme.md"}');export{e as data};

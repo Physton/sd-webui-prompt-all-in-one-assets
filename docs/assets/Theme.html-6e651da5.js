@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-dbbc04e4","path":"/zh-CN/Theme.html","title":"切换浅色/深色主题","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1687337944000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"zh-CN/Theme.md"}');export{e as data};
