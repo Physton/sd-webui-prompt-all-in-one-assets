@@ -1,4 +1,4 @@
-# Translation API Configuration
+# :star: Translation API Configuration
 
 > In the English language environment, this button will be hidden.
 
@@ -18,7 +18,7 @@
 
     ![](./assets/images/demo.translate_setting.gif)
 
-2. They are currently divided into two categories: "No API Key Required" and "API Key Required".
+2. Currently divided into three categories: `No API Key Required`, `API Key Required`, and `Offline Translation`.
 
     ![](./assets/images/TranslationApiConfiguration/api_list.png)
 
@@ -31,10 +31,17 @@
 ## Translation API Comparison
 
 |  | No API Key Required | API Key Required |
-| :---: | :---: | :---: |
-| Cost | Free | Mostly free<br/>There may be a limit on the number of translated characters per month, but the free quota is usually sufficient for our use. |
-| Stability | Very unstable<br/>Some may not work due to different computer and network environments.<br/>Very unstable and may fail at any time.<br/>Translation may succeed during testing, but may fail during actual use. | Very stable<br/>Basic failure-free translation. |
-| Speed | Very slow | Very fast |
+| :--- | :--- | :--- |
+| Cost | `Free` | `Mostly free`<br/>There may be a limit on the number of translated characters per month, but the free quota is usually sufficient for our use. |
+| Stability | `Very unstable`<br/>Some may not work due to different computer and network environments.<br/>Very unstable and may fail at any time.<br/>Translation may succeed during testing, but may fail during actual use. | `Very stable`<br/>Basic failure-free translation. |
+| Speed | `Very slow` | `Very fast` |
+
+### Offline Translation
+
+1. During initialization, there are higher requirements for the network environment.
+2. There are higher requirements for computer performance.
+3. There can be significant differences in translation quality among different models.
+4. There can be significant differences in translation speed among different models.
 
 ## Translation API Free Quota
 
@@ -54,6 +61,7 @@
 | Tencent / 腾讯翻译 | 5 million characters per month for free |
 | Niutrans / 小牛翻译 | Need to sign in to receive |
 | Caiyun / 彩云小译 | 1 million characters per month for free |
+| VolcEngine / 火山翻译 | 2 million characters per month for free |
 
 ## API Testing
 

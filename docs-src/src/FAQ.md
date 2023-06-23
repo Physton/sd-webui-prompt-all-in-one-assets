@@ -1,4 +1,4 @@
-# FAQ
+# :star: FAQ
 
 ### Q: What is the difference between translation interfaces that do not require API keys and those that require API keys?
 
