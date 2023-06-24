@@ -5,6 +5,9 @@ import {copyCodePlugin} from "vuepress-plugin-copy-code2"
 import {mdEnhancePlugin} from "vuepress-plugin-md-enhance"
 import fullTextSearchPlugin from "vuepress-plugin-full-text-search2"
 
+import fs from 'fs'
+import path from 'path'
+
 export default {
     base: '/sd-webui-prompt-all-in-one-assets/',
     lang: 'en',
@@ -22,6 +25,13 @@ export default {
         }),
         fullTextSearchPlugin()
     ],
+    async onPrepared(app) {
+        const translate_apis = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'translate_apis.json'), 'utf8'))
+        await app.writeTemp('translate_apis.js', `export const translate_apis = ${JSON.stringify(translate_apis)}`)
+
+        const i18n = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'i18n.json'), 'utf8'))
+        await app.writeTemp('i18n.js', `export const i18n = ${JSON.stringify(i18n)}`)
+    },
     locales: {
         '/': {
             lang: 'en',
@@ -84,6 +94,7 @@ export default {
                     '/Installation.md',
                     '/InstallationPackages.md',
                     '/ExtensionUpdateDescription.md',
+                    '/TranslationAPIDescription.md',
                     {
                         text: 'Toolbar', link: '', children: [
                             '/LanguageSelection.md',
@@ -133,6 +144,7 @@ export default {
                     '/ru/Installation.md',
                     '/ru/InstallationPackages.md',
                     '/ru/ExtensionUpdateDescription.md',
+                    '/ru/TranslationAPIDescription.md',
                     {
                         text: 'Панель инструментов', link: '', children: [
                             '/ru/LanguageSelection.md',
@@ -183,6 +195,7 @@ export default {
                     '/zh-CN/Installation.md',
                     '/zh-CN/InstallationPackages.md',
                     '/zh-CN/ExtensionUpdateDescription.md',
+                    '/zh-CN/TranslationAPIDescription.md',
                     {
                         text: '工具栏', link: '', children: [
                             '/zh-CN/LanguageSelection.md',
@@ -233,6 +246,7 @@ export default {
                     '/zh-TW/Installation.md',
                     '/zh-TW/InstallationPackages.md',
                     '/zh-TW/ExtensionUpdateDescription.md',
+                    '/zh-TW/TranslationAPIDescription.md',
                     {
                         text: '工具欄', link: '', children: [
                             '/zh-TW/LanguageSelection.md',

@@ -123,4 +123,8 @@ export default {
 .my-footer .github-count a {
     margin: 0 5px;
 }
+
+:root {
+    --content-width: 100%;
+}
 </style>

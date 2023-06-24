@@ -1,0 +1,434 @@
+[
+  {
+    "name": "简体中文 (中国)",
+    "code": "zh_CN"
+  },
+  {
+    "name": "繁體中文 (中國香港)",
+    "code": "zh_HK"
+  },
+  {
+    "name": "繁体中文 (中國台灣)",
+    "code": "zh_TW"
+  },
+  {
+    "name": "English (US)",
+    "code": "en_US"
+  },
+  {
+    "name": "Afrikaans (South Africa)",
+    "code": "af_ZA"
+  },
+  {
+    "name": "Shqip (Shqipëria)",
+    "code": "sq_AL"
+  },
+  {
+    "name": "አማርኛ (ኢትዮጵያ)",
+    "code": "am_ET"
+  },
+  {
+    "name": "العربية (السعودية)",
+    "code": "ar_SA"
+  },
+  {
+    "name": "Հայերեն (Հայաստան)",
+    "code": "hy_AM"
+  },
+  {
+    "name": "অসমীয়া (ভাৰত)",
+    "code": "as_IN"
+  },
+  {
+    "name": "Azərbaycan dili (Latın, Azərbaycan)",
+    "code": "az_Latn_AZ"
+  },
+  {
+    "name": "বাংলা (বাংলাদেশ)",
+    "code": "bn_BD"
+  },
+  {
+    "name": "Башҡорт (Россия)",
+    "code": "ba_RU"
+  },
+  {
+    "name": "Euskara (Espainia)",
+    "code": "eu_ES"
+  },
+  {
+    "name": "Bosanski (Latinski, Bosna i Hercegovina)",
+    "code": "bs_Latn_BA"
+  },
+  {
+    "name": "Български (България)",
+    "code": "bg_BG"
+  },
+  {
+    "name": "Català (Espanya)",
+    "code": "ca_ES"
+  },
+  {
+    "name": "Hrvatski (Hrvatska)",
+    "code": "hr_HR"
+  },
+  {
+    "name": "Čeština (Česká republika)",
+    "code": "cs_CZ"
+  },
+  {
+    "name": "Dansk (Danmark)",
+    "code": "da_DK"
+  },
+  {
+    "name": "درى (افغانستان)",
+    "code": "prs_AF"
+  },
+  {
+    "name": "ދިވެހިބަސް (ދިވެހިރާއްޖެ)",
+    "code": "dv_MV"
+  },
+  {
+    "name": "Nederlands (Nederland)",
+    "code": "nl_NL"
+  },
+  {
+    "name": "Eesti (Eesti)",
+    "code": "et_EE"
+  },
+  {
+    "name": "Føroyskt (Føroyar)",
+    "code": "fo_FO"
+  },
+  {
+    "name": "vosa Vakaviti (Viti)",
+    "code": "fj_FJ"
+  },
+  {
+    "name": "Filipino (Pilipinas)",
+    "code": "fil_PH"
+  },
+  {
+    "name": "Suomi (Suomi)",
+    "code": "fi_FI"
+  },
+  {
+    "name": "Français (France)",
+    "code": "fr_FR"
+  },
+  {
+    "name": "Français (Canada)",
+    "code": "fr_CA"
+  },
+  {
+    "name": "Galego (España)",
+    "code": "gl_ES"
+  },
+  {
+    "name": "ქართული (საქართველო)",
+    "code": "ka_GE"
+  },
+  {
+    "name": "Deutsch (Deutschland)",
+    "code": "de_DE"
+  },
+  {
+    "name": "Ελληνικά (Ελλάδα)",
+    "code": "el_GR"
+  },
+  {
+    "name": "ગુજરાતી (ભારત)",
+    "code": "gu_IN"
+  },
+  {
+    "name": "Kreyòl ayisyen (Ayiti)",
+    "code": "ht_HT"
+  },
+  {
+    "name": "עברית (ישראל)",
+    "code": "he_IL"
+  },
+  {
+    "name": "हिन्दी (भारत)",
+    "code": "hi_IN"
+  },
+  {
+    "name": "Hmong Daw (Latn, United States)",
+    "code": "mww_Latn_US"
+  },
+  {
+    "name": "Magyar (Magyarország)",
+    "code": "hu_HU"
+  },
+  {
+    "name": "Íslenska (Ísland)",
+    "code": "is_IS"
+  },
+  {
+    "name": "Bahasa Indonesia (Indonesia)",
+    "code": "id_ID"
+  },
+  {
+    "name": "Inuktitut (Kanatami)",
+    "code": "ikt_CA"
+  },
+  {
+    "name": "Inuktitut (Latin, Canada)",
+    "code": "iu_Latn_CA"
+  },
+  {
+    "name": "ᐃᓄᒃᑎᑐᑦ (ᑲᓇᑕᒥ)",
+    "code": "iu_CA"
+  },
+  {
+    "name": "Gaeilge (Éire)",
+    "code": "ga_IE"
+  },
+  {
+    "name": "Italiano (Italia)",
+    "code": "it_IT"
+  },
+  {
+    "name": "日本語 (日本)",
+    "code": "ja_JP"
+  },
+  {
+    "name": "ಕನ್ನಡ (ಭಾರತ)",
+    "code": "kn_IN"
+  },
+  {
+    "name": "Қазақ (Қазақстан)",
+    "code": "kk_KZ"
+  },
+  {
+    "name": "ភាសាខ្មែរ (កម្ពុជា)",
+    "code": "km_KH"
+  },
+  {
+    "name": "Klingon (Latn)",
+    "code": "tlh_Latn"
+  },
+  {
+    "name": "Klingon (plqaD)",
+    "code": "tlh_Piqd"
+  },
+  {
+    "name": "한국어 (대한민국)",
+    "code": "ko_KR"
+  },
+  {
+    "name": "کوردی (عێراق)",
+    "code": "ku_Arab_IQ"
+  },
+  {
+    "name": "Kurmancî (Latînî, Tirkiye)",
+    "code": "ku_Latn_TR"
+  },
+  {
+    "name": "Кыргызча (Кыргызстан)",
+    "code": "ky_KG"
+  },
+  {
+    "name": "ລາວ (ລາວ)",
+    "code": "lo_LA"
+  },
+  {
+    "name": "Latviešu (Latvija)",
+    "code": "lv_LV"
+  },
+  {
+    "name": "Lietuvių (Lietuva)",
+    "code": "lt_LT"
+  },
+  {
+    "name": "Македонски (Северна Македонија)",
+    "code": "mk_MK"
+  },
+  {
+    "name": "Malagasy (Madagasikara)",
+    "code": "mg_MG"
+  },
+  {
+    "name": "Bahasa Melayu (Latin, Malaysia)",
+    "code": "ms_Latn_MY"
+  },
+  {
+    "name": "മലയാളം (ഇന്ത്യ)",
+    "code": "ml_IN"
+  },
+  {
+    "name": "Malti (Malta)",
+    "code": "mt_MT"
+  },
+  {
+    "name": "Māori (Aotearoa)",
+    "code": "mi_NZ"
+  },
+  {
+    "name": "मराठी (भारत)",
+    "code": "mr_IN"
+  },
+  {
+    "name": "Монгол (Кирилл, Монгол улс)",
+    "code": "mn_Cyrl_MN"
+  },
+  {
+    "name": "ᠮᠣᠩᠭᠣᠯ ᠤᠯᠤᠰ (ᠨᠢᠭᠡᠳᠦᠯ ᠤᠨᠤᠭ᠎ᠠ)",
+    "code": "mn_Mong_CN"
+  },
+  {
+    "name": "မြန်မာ (မြန်မာ)",
+    "code": "my_MM"
+  },
+  {
+    "name": "नेपाली (नेपाल)",
+    "code": "ne_NP"
+  },
+  {
+    "name": "Norsk bokmål (Norge)",
+    "code": "no_NO"
+  },
+  {
+    "name": "ଓଡ଼ିଆ (ଭାରତ)",
+    "code": "or_IN"
+  },
+  {
+    "name": "پښتو (افغانستان)",
+    "code": "ps_AF"
+  },
+  {
+    "name": "فارسی (ایران)",
+    "code": "fa_IR"
+  },
+  {
+    "name": "Polski (Polska)",
+    "code": "pl_PL"
+  },
+  {
+    "name": "Português (Brasil)",
+    "code": "pt_BR"
+  },
+  {
+    "name": "Português (Portugal)",
+    "code": "pt_PT"
+  },
+  {
+    "name": "ਪੰਜਾਬੀ (ਗੁਰਮੁਖੀ, ਭਾਰਤ)",
+    "code": "pa_Guru_IN"
+  },
+  {
+    "name": "Querétaro Otomi (Latn, México)",
+    "code": "otq_Latn_MX"
+  },
+  {
+    "name": "Română (România)",
+    "code": "ro_RO"
+  },
+  {
+    "name": "Русский (Россия)",
+    "code": "ru_RU"
+  },
+  {
+    "name": "Samoan (Latn, Samoa)",
+    "code": "sm_Latn_WS"
+  },
+  {
+    "name": "Српски (ћирилица, Србија)",
+    "code": "sr_Cyrl_RS"
+  },
+  {
+    "name": "Srpski (latinica, Srbija)",
+    "code": "sr_Latn_RS"
+  },
+  {
+    "name": "Slovenčina (Slovensko)",
+    "code": "sk_SK"
+  },
+  {
+    "name": "Slovenščina (Slovenija)",
+    "code": "sl_SI"
+  },
+  {
+    "name": "Soomaali (Soomaaliya)",
+    "code": "so_SO"
+  },
+  {
+    "name": "Español (España)",
+    "code": "es_ES"
+  },
+  {
+    "name": "Kiswahili (Kenya)",
+    "code": "sw_KE"
+  },
+  {
+    "name": "Svenska (Sverige)",
+    "code": "sv_SE"
+  },
+  {
+    "name": "Reo Tahiti (Polynésie française)",
+    "code": "ty_PF"
+  },
+  {
+    "name": "தமிழ் (இந்தியா)",
+    "code": "ta_IN"
+  },
+  {
+    "name": "Татарча (латин, Россия)",
+    "code": "tt_Latn_RU"
+  },
+  {
+    "name": "తెలుగు (భారత)",
+    "code": "te_IN"
+  },
+  {
+    "name": "ไทย (ไทย)",
+    "code": "th_TH"
+  },
+  {
+    "name": "བོད་ཡིག (རྒྱ་གར།)",
+    "code": "bo_CN"
+  },
+  {
+    "name": "ትግርኛ (ኢትዮጵያ)",
+    "code": "ti_ET"
+  },
+  {
+    "name": "lea fakatonga (Tonga)",
+    "code": "to_TO"
+  },
+  {
+    "name": "Türkçe (Türkiye)",
+    "code": "tr_TR"
+  },
+  {
+    "name": "Українська (Україна)",
+    "code": "uk_UA"
+  },
+  {
+    "name": "اردو (پاکستان)",
+    "code": "ur_PK"
+  },
+  {
+    "name": "ئۇيغۇرچە (ئۇيغۇرچە، جۇڭگو)",
+    "code": "ug_Arab_CN"
+  },
+  {
+    "name": "O'zbekcha (Lotin, O'zbekiston)",
+    "code": "uz_Latn_UZ"
+  },
+  {
+    "name": "Tiếng Việt (Việt Nam)",
+    "code": "vi_VN"
+  },
+  {
+    "name": "Cymraeg (Y Deyrnas Unedig)",
+    "code": "cy_GB"
+  },
+  {
+    "name": "Yucatec Maya (México)",
+    "code": "yua_MX"
+  },
+  {
+    "name": "isiZulu (iNingizimu Afrika)",
+    "code": "zu_ZA"
+  }
+]
