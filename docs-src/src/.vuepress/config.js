@@ -95,6 +95,7 @@ export default {
                     '/InstallationPackages.md',
                     '/ExtensionUpdateDescription.md',
                     '/TranslationAPIDescription.md',
+                    '/OfflineTranslation.md',
                     {
                         text: 'Toolbar', link: '', children: [
                             '/LanguageSelection.md',
@@ -145,6 +146,7 @@ export default {
                     '/ru/InstallationPackages.md',
                     '/ru/ExtensionUpdateDescription.md',
                     '/ru/TranslationAPIDescription.md',
+                    '/ru/OfflineTranslation.md',
                     {
                         text: 'Панель инструментов', link: '', children: [
                             '/ru/LanguageSelection.md',
@@ -196,6 +198,7 @@ export default {
                     '/zh-CN/InstallationPackages.md',
                     '/zh-CN/ExtensionUpdateDescription.md',
                     '/zh-CN/TranslationAPIDescription.md',
+                    '/zh-CN/OfflineTranslation.md',
                     {
                         text: '工具栏', link: '', children: [
                             '/zh-CN/LanguageSelection.md',
@@ -247,6 +250,7 @@ export default {
                     '/zh-TW/InstallationPackages.md',
                     '/zh-TW/ExtensionUpdateDescription.md',
                     '/zh-TW/TranslationAPIDescription.md',
+                    '/zh-TW/OfflineTranslation.md',
                     {
                         text: '工具欄', link: '', children: [
                             '/zh-TW/LanguageSelection.md',

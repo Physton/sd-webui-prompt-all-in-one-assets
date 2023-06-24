@@ -28,6 +28,10 @@ View: [Translation API Free Quotas](/TranslationAPIDescription.md#all-translatio
 
 View: [API Key Application](/TranslationAPIDescription.md#all-translation-apis)
 
+## Offline Translation
+
+View: [Offline Translation](/OfflineTranslation.md)
+
 ## API Testing
 
 ![](./assets/images/TranslationApiConfiguration/test.png)

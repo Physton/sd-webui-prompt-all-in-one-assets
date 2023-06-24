@@ -28,6 +28,10 @@
 
 Просмотреть: [Заявка на получение API-ключа](/ru/TranslationAPIDescription.md#все-интерфеисы-перевода)
 
+## Офлайн-перевод
+
+Просмотреть: [Офлайн-перевод](/ru/OfflineTranslation.md)
+
 ## Тестирование интерфейса
 
 ![](../assets/images/TranslationApiConfiguration/test.png)

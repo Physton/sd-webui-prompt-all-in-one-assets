@@ -28,6 +28,10 @@
 
 請參閱：[API KEY申請](/zh-TW/TranslationAPIDescription.md#所有翻譯接口)
 
+## 離線翻譯
+
+請參閱：[離線翻譯](/zh-TW/OfflineTranslation.md)
+
 ## 接口測試
 
 ![](../assets/images/TranslationApiConfiguration/test.png)

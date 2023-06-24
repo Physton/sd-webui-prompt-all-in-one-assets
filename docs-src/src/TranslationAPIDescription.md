@@ -19,6 +19,7 @@
 3. It requires high computer performance.
 4. The translation quality varies greatly among different models.
 5. The translation speed varies greatly among different models.
+6. View: [Offline Translation](/OfflineTranslation.md)
 
 ## Translation API Comparison
 

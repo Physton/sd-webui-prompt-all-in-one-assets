@@ -28,6 +28,10 @@
 
 请查看：[API KEY申请](/zh-CN/TranslationAPIDescription.md#所有翻译接口)
 
+## 离线翻译
+
+请查看：[离线翻译](/zh-CN/OfflineTranslation.md)
+
 ## 接口测试
 
 ![](../assets/images/TranslationApiConfiguration/test.png)
