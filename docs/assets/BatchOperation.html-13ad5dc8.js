@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-dc5dc40e","path":"/ru/BatchOperation.html","title":"Массовые операции с ключевыми словами","lang":"ru","frontmatter":{},"headers":[],"git":{"updatedTime":1687190840000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"ru/BatchOperation.md"}');export{t as data};

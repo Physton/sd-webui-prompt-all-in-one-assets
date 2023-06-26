@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-1f846a3e","path":"/zh-TW/FormatOfPrompts.html","title":"提示詞格式","lang":"zh-TW","frontmatter":{},"headers":[],"git":{"updatedTime":1687190840000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"zh-TW/FormatOfPrompts.md"}');export{t as data};

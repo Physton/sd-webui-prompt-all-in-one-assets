@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-a3d78714","path":"/zh-TW/Theme.html","title":"切換淺色/深色主題","lang":"zh-TW","frontmatter":{},"headers":[],"git":{"updatedTime":1687337944000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"zh-TW/Theme.md"}');export{t as data};

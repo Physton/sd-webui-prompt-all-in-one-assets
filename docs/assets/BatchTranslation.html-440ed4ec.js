@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-058ceec8","path":"/zh-TW/BatchTranslation.html","title":"批量翻譯","lang":"zh-TW","frontmatter":{},"headers":[],"git":{"updatedTime":1687337944000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":2}]},"filePathRelative":"zh-TW/BatchTranslation.md"}');export{t as data};

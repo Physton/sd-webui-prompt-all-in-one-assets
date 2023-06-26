@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-29018fd8","path":"/zh-CN/Tooltip.html","title":"按钮功能提示","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1687190840000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"zh-CN/Tooltip.md"}');export{t as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-b29da7ba","path":"/zh-CN/LanguageSelection.html","title":"语言选择","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1687190840000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"zh-CN/LanguageSelection.md"}');export{t as data};

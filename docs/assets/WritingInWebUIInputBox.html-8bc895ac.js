@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7c66ffb3","path":"/zh-CN/WritingInWebUIInputBox.html","title":"在WebUI的输入框中编写","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1687190840000,"contributors":[{"name":"Physton","email":"physton@163.com","commits":1}]},"filePathRelative":"zh-CN/WritingInWebUIInputBox.md"}');export{t as data};
