@@ -7,7 +7,8 @@
                 <th>{{ getLang('name') }}</th>
                 <th>{{ getLang('concurrent') }}</th>
                 <th>{{ getLang('free_quota') }}</th>
-                <th></th>
+                <th>{{ getLang('help') }}</th>
+                <th>{{ getLang('support_languages') }}</th>
             </tr>
             </thead>
             <tbody>
@@ -17,7 +18,10 @@
                 <td style="text-align: right">{{ apiItem.concurrent }} / s</td>
                 <td>{{ getLang('free.' + apiItem.key) || '-' }}</td>
                 <td style="text-align: center">
-                    <a href="javascript:" @click="toApi(apiItem)">{{ getLang('help') }} / {{ getLang('support_languages') }}</a>
+                    <a href="javascript:" @click="toApi(apiItem)">{{ getLang('help') }}</a>
+                </td>
+                <td style="text-align: center">
+                    <a href="javascript:" @click="toApi(apiItem)">{{ Object.keys(apiItem.support).length }}</a>
                 </td>
             </tr>
             </tbody>
@@ -208,9 +212,7 @@ export default {
                     item.category = api.type
                     item.nameFilter = this.getItemName(item, true)
                     item.nameReplace = this.getItemName(item, false)
-                    console.log(item.nameAchors)
                     item.nameAchors = item.nameReplace.replace(/ /g, '-')
-                    console.log(item.nameReplace)
 
                     this.translate_apis_parse.push(item)
                 })

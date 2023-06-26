@@ -1,4 +1,5 @@
 import {defineUserConfig} from 'vuepress'
+import {viteBundler} from '@vuepress/bundler-vite'
 import {defaultTheme} from '@vuepress/theme-default'
 import {searchPlugin} from '@vuepress/plugin-search'
 import {copyCodePlugin} from "vuepress-plugin-copy-code2"
@@ -12,6 +13,16 @@ export default {
     base: '/sd-webui-prompt-all-in-one-assets/',
     lang: 'en',
     dest: '../docs/',
+    bundler: viteBundler({
+        viteOptions: {
+            build: {
+                rollupOptions: {
+                    cache: true,
+                }
+            }
+        },
+        vuePluginOptions: {},
+    }),
     plugins: [
         searchPlugin(),
         copyCodePlugin(),
